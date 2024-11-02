@@ -1,0 +1,19 @@
+{
+  "name": "em",
+  "version": "1.0.0",
+  "description": "A Backend File",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "Saurabh Shah",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
